@@ -1,5 +1,9 @@
 # foodl
 
+#Find recipes for any ingredient you have on hand
+
+#Uses themealdb API (https://www.themealdb.com/api.php)
+
 ## Project setup
 ```
 npm install
